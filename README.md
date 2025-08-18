@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7FF&center=true&vCenter=true&width=600&lines=Fullstack+Node.js+Developer;Backend+Developer;Yêu+thích+NestJS+%26+Prisma;Học+thêm+Java+Spring+Boot+%26+DevOps)](https://git.io/typing-svg)
 
+---
+
+## 📄 CV của tôi
+[👉 Xem CV (PDF)](./Pham_Trong_Nhan_Resume.pdf)
 
 ---
 ## 💻 Tech Stack
