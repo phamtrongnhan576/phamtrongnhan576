@@ -36,6 +36,8 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## ✨ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -43,5 +45,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamtrongnhan576&layout=compact&theme=tokyonight)
 
 ---
+
+
 
 
