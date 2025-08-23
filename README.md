@@ -1,22 +1,14 @@
-## 📝 What I'm Doing:
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="65%" valign="top">
+## What I'm Doing:
 
-- 🌱 I’m currently learning **BackEnd Developer**  
-- 💬 Ask me about **MERN**  
-- 🌐 Personal website: update  
-- 📧 How to reach me: **phamtrongnhan576@gmail.com**  
-- ⚡ Fun fact: **I think I am funny**
+<img align="right" width="400" src="/https://raw.githubusercontent.com/vulebaolong/vulebaolong/refs/heads/main/asset/item4_4.gif" alt="coding" />
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="380"/>
-    </td>
-  </tr>
-</table>
-
+-   🌱 I’m currently learning **BackEnd Developer**
+-   💬 Ask me about **MERN**
+-   🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">vulebaolong</a>**
+-   📫 How to reach me **vulebaolong@gmail.com**
+-   📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**
+-   ⚡ Fun fact **I think I am funny**
 
 ## Languages, Tools I Know:
 
