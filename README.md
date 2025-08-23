@@ -12,7 +12,7 @@
 
     </td>
     <td width="35%" align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="100%"/>
+      <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="100%" height='500'/>
     </td>
   </tr>
 </table>
