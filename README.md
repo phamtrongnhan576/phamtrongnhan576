@@ -8,7 +8,8 @@
 ⚡ Fun fact: <b>I think I am funny</b>
 </p>
 
-<img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" align="right" width="300"/>
+<img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" align="right" width="400"/>
+
 
 
 
