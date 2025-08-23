@@ -18,13 +18,12 @@
 
 ### 🤖 AI Tools
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" height="48" alt="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" height="48" alt="AI Tools"/>
   <img src="https://seeklogo.com/images/M/midjourney-logo-D99D9F40F3-seeklogo.com.png" width="48" height="48" alt="MidJourney"/>
   <img src="https://stablediffusionweb.com/icons/icon-72x72.png" width="48" height="48" alt="Stable Diffusion"/>
 </p>
 
 ### 🛠️ Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github,figma,ps,pr" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,figma" />
 </p>
