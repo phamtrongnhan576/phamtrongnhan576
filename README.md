@@ -1,18 +1,18 @@
-## 📝 What I'm Doing:
+## What I'm Doing:
 
 <table>
 <tr>
-<td>
+<td width="60%">
 
 - 🌱 I’m currently learning **BackEnd Developer**  
 - 💬 Ask me about **MERN**  
-- 🌐 Personal website: [phamtrongnhan](https://github.com/vulebaolong)  
-- 📧 How to reach me: **phamtrongnhan576@gmail.com**  
+- 🌐 Personal website: [vulebaolong](https://github.com/vulebaolong)  
+- 📧 How to reach me: **vulebaolong@gmail.com**  
 - 📄 My CV: [EN](#) / [VI](#)  
-- 😄 Fun fact: **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 </td>
-<td>
+<td width="40%" align="center">
   <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="250"/>
 </td>
 </tr>
