@@ -1,4 +1,4 @@
-## 🚀 Skills
+## Languages, Tools I Know:
 
 ###  Front-End
 <p>
@@ -9,8 +9,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,docker,prisma,sequelize" />
 </p>
-
-
 
 ###  Tools & Others
 <p>
