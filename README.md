@@ -54,11 +54,7 @@
   <img src="https://skillicons.dev/icons?i=postman,git,github,figma" />
 </p>
 
-
-
-
-📈 **Github Charts**
-
+ **Github Charts**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamtrongnhan576/phamtrongnhan576/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamtrongnhan576/phamtrongnhan576/output/github-snake.svg" />
