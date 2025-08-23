@@ -1,15 +1,22 @@
-## What I'm Doing:
+## 📝 What I'm Doing:
 
-- 🌱 I’m currently learning **BackEnd Developer**
-- 💬 Ask me about **MERN**
-- 🌐 Personal website: [vulebaolong](https://github.com/vulebaolong)
-- 📧 How to reach me: **vulebaolong@gmail.com**
-- 📄 My CV: [EN](#) / [VI](#)
+<table>
+<tr>
+<td>
+
+- 🌱 I’m currently learning **BackEnd Developer**  
+- 💬 Ask me about **MERN**  
+- 🌐 Personal website: [phamtrongnhan](https://github.com/vulebaolong)  
+- 📧 How to reach me: **phamtrongnhan576@gmail.com**  
+- 📄 My CV: [EN](#) / [VI](#)  
 - 😄 Fun fact: **I think I am funny**
 
-<p align="right">
+</td>
+<td>
   <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="250"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
