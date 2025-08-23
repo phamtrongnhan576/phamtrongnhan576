@@ -1,3 +1,30 @@
+## What I'm Doing:
+
+- 🌱 I’m currently learning **BackEnd Developer**
+- 💬 Ask me about **MERN**
+- 🌐 Personal website: [vulebaolong](https://github.com/vulebaolong)
+- 📧 How to reach me: **vulebaolong@gmail.com**
+- 📄 My CV: [EN](#) / [VI](#)
+- 😄 Fun fact: **I think I am funny**
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="250"/>
+</p>
+
+---
+
+## Connect with me:
+<p>
+  <a href="https://zalo.me/yourZalo" target="_blank"><img src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
+  <a href="https://facebook.com/yourFacebook" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+  <a href="https://linkedin.com/in/yourLinkedIn" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://instagram.com/yourInstagram" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+</p>
+
+
+
+
+
 ## Languages, Tools I Know:
 
 ###  Front-End
