@@ -29,6 +29,18 @@
 
 
 
+##  What I'm Doing:
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <!-- nội dung bullet list của bạn -->
+    </td>
+    <td width="35%" align="right">
+      <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="350"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Languages, Tools I Know:
