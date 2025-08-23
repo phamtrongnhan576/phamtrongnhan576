@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm <a href="#!" target="_blank">PHAM TRONG NHAN</a></h1>
-  br
+</br>
   <h5>A passionate web developer from Viet Nam</h5>
 </div>
 
