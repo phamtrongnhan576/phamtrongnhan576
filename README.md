@@ -10,8 +10,8 @@
 
 
 
-## 🌐 Connect with me:
-<p>
+## Connect with me:
+<p align="center" >
   <a href="https://zalo.me/0362772537" target="_blank"><img src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
   <a href="https://www.facebook.com/pham.trong.nhan.447322 target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
