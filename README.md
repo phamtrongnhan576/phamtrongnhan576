@@ -16,8 +16,6 @@
   <a href="https://www.facebook.com/pham.trong.nhan.447322 target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
 
-
-
 ## What I'm Doing:
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" alt="coding" />
