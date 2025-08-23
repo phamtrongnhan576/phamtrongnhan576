@@ -19,7 +19,8 @@
 - 📫 How to reach me **phamtrongnhan576@gmail.com**  
 - 📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**  
 - ⚡ Fun fact **I think I am funny**
-
+  
+<br/>
 ## Languages, Tools I Know:
 
 ### Front-End
