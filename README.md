@@ -1,8 +1,8 @@
-## What I'm Doing:
+## 📝 What I'm Doing:
 
-<table>
+<table border="0" width="100%">
 <tr>
-<td width="60%">
+<td width="65%" valign="top">
 
 - 🌱 I’m currently learning **BackEnd Developer**  
 - 💬 Ask me about **MERN**  
@@ -12,8 +12,8 @@
 - ⚡ Fun fact: **I think I am funny**
 
 </td>
-<td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="250"/>
+<td width="35%" align="center">
+  <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="300"/>
 </td>
 </tr>
 </table>
