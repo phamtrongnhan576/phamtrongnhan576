@@ -6,10 +6,10 @@
   </a>
 </p>
 
-<p align="center" style="font-size:30px; font-weight:bold;">
+<h1 align="center" style="font-size:30px; font-weight:bold;">
   Hi 👋, I'm <a href="#!" target="_blank">PHAM TRONG NHAN</a>
-</p>
-<p align="center">A passionate web developer from Viet Nam</p>
+</h1>
+<h3 align="center">A passionate web developer from Viet Nam</h3>
 
 
 ## What I'm Doing:
