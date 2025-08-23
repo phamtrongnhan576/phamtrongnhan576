@@ -1,6 +1,6 @@
 ## 📝 What I'm Doing:
 
-<table width="100%">
+<table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
 
@@ -13,10 +13,11 @@
 
     </td>
     <td width="35%" align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="300"/>
+      <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="380"/>
     </td>
   </tr>
 </table>
+
 
 
 ## Connect with me:
