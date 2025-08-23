@@ -7,7 +7,7 @@
 
 ### ⚙️ Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,ts,js,python,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,mongodb,ts,js,python,docker" />
 </p>
 
 ### 🛠️ Tools & Others
