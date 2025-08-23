@@ -4,7 +4,7 @@
 
 ---
 
-## 📄 MY CV [👉 Xem CV (PDF)](./Pham_Trong_Nhan_Resume.pdf)
+
 ---
 
 ## 💻 Tech Stack
