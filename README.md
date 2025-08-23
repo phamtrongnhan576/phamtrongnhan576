@@ -1,15 +1,14 @@
-<div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
-  <div style="flex:1;">
-    🌱 I’m currently learning **BackEnd Developer**  
-    💬 Ask me about **MERN**  
-    🌐 Personal website: update  
-    📧 How to reach me: **phamtrongnhan576@gmail.com**  
-    ⚡ Fun fact: **I think I am funny**
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="300"/>
-  </div>
-</div>
+## 📝 What I'm Doing:
+
+<p align="left">
+🌱 I’m currently learning <b>BackEnd Developer</b><br>
+💬 Ask me about <b>MERN</b><br>
+🌐 Personal website: update<br>
+📧 How to reach me: <b>phamtrongnhan576@gmail.com</b><br>
+⚡ Fun fact: <b>I think I am funny</b>
+</p>
+
+<img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" align="right" width="300"/>
 
 
 
