@@ -1,14 +1,16 @@
 ## 📝 What I'm Doing:
 
+<div>
 <p align="left">
-🌱 I’m currently learning <b>BackEnd Developer</b><br>
-💬 Ask me about <b>MERN</b><br>
-🌐 Personal website: update<br>
-📧 How to reach me: <b>phamtrongnhan576@gmail.com</b><br>
-⚡ Fun fact: <b>I think I am funny</b>
+  🌱 I’m currently learning <b>BackEnd Developer</b><br>
+  💬 Ask me about <b>MERN</b><br>
+  🌐 Personal website: update<br>
+  📧 How to reach me: <b>phamtrongnhan576@gmail.com</b><br>
+  ⚡ Fun fact: <b>I think I am funny</b>
 </p>
 
 <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" align="right" width="400"/>
+</div>
 
 
 
