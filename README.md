@@ -7,7 +7,7 @@
 
 ### ⚙️ Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,mongodb,python,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mysql,docker,prisma,sequelize" />
 </p>
 
 ### 🗄️ ORM
@@ -16,12 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="48" height="48" alt="Sequelize"/>
 </p>
 
-### 🤖 AI Tools
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" height="48" alt="AI Tools"/>
-  <img src="https://seeklogo.com/images/M/midjourney-logo-D99D9F40F3-seeklogo.com.png" width="48" height="48" alt="MidJourney"/>
-  <img src="https://stablediffusionweb.com/icons/icon-72x72.png" width="48" height="48" alt="Stable Diffusion"/>
-</p>
+
 
 ### 🛠️ Tools & Others
 <p>
