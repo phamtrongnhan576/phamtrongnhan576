@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <a href="#!" target="_blank">PHAM TRONG NHAN</a></h1>
-<h5 align="center">A passionate web developer from Viet Nam</h5>
+<h3 align="center">A passionate web developer from Viet Nam</h5>
 
 ## What I'm Doing:
 
