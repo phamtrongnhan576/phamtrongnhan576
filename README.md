@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=11F7A0&width=600&height=45&size=25&pause=1000&vCenter=true&lines=Aspiring+Bridge+Engineer;Currently+studying+hard+to+improve"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=11F7A0&width=600&height=45&size=25&pause=1000&vCenter=true&lines=Aspiring+Bridge+Engineer+Currently+studying+hard+to+improve"
     />
   </a>
 </p>
