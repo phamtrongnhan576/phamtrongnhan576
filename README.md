@@ -1,20 +1,24 @@
 ## 📝 What I'm Doing:
 
-<table width="100%"> <tr> <td width="65%" valign="top">
-🌱 I'm currently learning BackEnd Developer
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="65%" valign="top">
 
-💬 Ask me about MERN
+        🌱 I’m currently learning **BackEnd Developer**  
+        💬 Ask me about **MERN**  
+        🌐 Personal website: [vulebaolong](https://github.com/vulebaolong)  
+        📧 How to reach me: **vulebaolong@gmail.com**  
+        📄 My CV: [EN](#) / [VI](#)  
+        ⚡ Fun fact: **I think I am funny**
 
-🌐 Personal website: vulebaolong
-
-📧 How to reach me: vulebaolong@gmail.com
-
-📄 My CV: EN / VI
-
-⚡ Fun fact: I think I am funny
-
-</td> <td width="35%" align="center"> <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="300"/> </td> </tr> </table>
-
+      </td>
+      <td width="35%" align="right" valign="middle">
+        <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="350"/>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## Connect with me:
