@@ -6,8 +6,10 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="#!" target="_blank">PHAM TRONG NHAN</a></h1>
-<h3 align="center">A passionate web developer from Viet Nam</h5>
+<div>
+  <h1 align="center">Hi 👋, I'm <a href="#!" target="_blank">PHAM TRONG NHAN</a></h1>
+  <h3 align="center">A passionate web developer from Viet Nam</h5>
+</div>
 
 ## What I'm Doing:
 
