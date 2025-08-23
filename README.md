@@ -16,8 +16,8 @@
 
 - 🌱 I’m currently learning **BackEnd Developer**  
 - 💬 Ask me about **MyERN**  
-- 🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">phamtrongnhan</a>**
-- 📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**
+- 🌐 Personal website: **<a href="#!">Click here</a>**
+- 📄 My CV: **<a href="./Pham_Trong_Nhan_Resume.pdf" target="_blank">Click here</a>** 
 - ⚡ Fun fact **I think I am funny**
 - 📫 How to reach me:<p align="">
   <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-tr%E1%BB%8Dng-nh%C3%A2n-37a713378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
