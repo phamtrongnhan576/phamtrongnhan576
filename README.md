@@ -1,25 +1,21 @@
 ## 📝 What I'm Doing:
 
-<div>
-<p align="left">
-  🌱 I’m currently learning <b>BackEnd Developer</b><br>
-  💬 Ask me about <b>MERN</b><br>
-  🌐 Personal website: update<br>
-  📧 How to reach me: <b>phamtrongnhan576@gmail.com</b><br>
-  ⚡ Fun fact: <b>I think I am funny</b>
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top">
 
-<img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" align="right" width="400"/>
-</div>
+- 🌱 I’m currently learning **BackEnd Developer**  
+- 💬 Ask me about **MERN**  
+- 🌐 Personal website: update  
+- 📧 How to reach me: **phamtrongnhan576@gmail.com**  
+- ⚡ Fun fact: **I think I am funny**
 
-
-
-
-## Connect with me:
-<p>
-  <a href="https://zalo.me/0362772537" target="_blank"><img src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
-  <a href="https://www.facebook.com/pham.trong.nhan.447322" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" width="380"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Languages, Tools I Know:
