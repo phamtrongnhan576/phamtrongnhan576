@@ -16,7 +16,9 @@
 
 - 🌱 I’m currently learning **BackEnd Developer**  
 - 💬 Ask me about **MyERN**  
-- 🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">phamtrongnhan</a>**  
+- 🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">phamtrongnhan</a>**
+- 📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**
+- ⚡ Fun fact **I think I am funny**
 - 📫 How to reach me:  
   **phamtrongnhan576@gmail.com**  
   <p>
@@ -27,8 +29,8 @@
       <img src="https://img.icons8.com/color/28/000000/facebook-new.png"/>
     </a>
   </p>  
-- 📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**  
-- ⚡ Fun fact **I think I am funny**
+
+
 
   
 <br/>
