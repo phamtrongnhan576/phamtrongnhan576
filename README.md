@@ -12,7 +12,7 @@
 
 ## What I'm Doing:
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" alt="coding" />
+<img align="right" width="380" src="./asset/cat.gif" alt="coding" />
 
 - 🌱 I’m currently learning **BackEnd Developer**  
 - 💬 Ask me about **MyERN**  
