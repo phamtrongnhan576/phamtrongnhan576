@@ -6,8 +6,9 @@
   </a>
 </p>
 
-<div align="center"> <p >Hi 👋, I'm <a href="#!" target="_blank">PHAM TRONG NHAN</a></p>
-<p >A passionate web developer from Viet Nam</p></div>
+## <p align="center">Hi 👋, I'm <a href="#!" target="_blank">PHAM TRONG NHAN</a></p>
+<p align="center">A passionate web developer from Viet Nam</p>
+
 
 
 
