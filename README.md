@@ -21,7 +21,7 @@
 
 ## Connect with me:
 <p>
-  <a href="https://zalo.me/yourZalo" target="_blank"><img src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
+  <a href="https://zalo.me/0362772737" target="_blank"><img src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
   <a href="https://facebook.com/yourFacebook" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
   <a href="https://linkedin.com/in/yourLinkedIn" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://instagram.com/yourInstagram" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
