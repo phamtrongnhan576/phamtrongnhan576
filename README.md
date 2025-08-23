@@ -10,12 +10,6 @@
 
 
 
-## Connect with me:
-<p align="center" >
-  <a href="https://zalo.me/0362772537" target="_blank"><img src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
-  <a href="https://www.facebook.com/pham.trong.nhan.447322 target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-</p>
-
 ## What I'm Doing:
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/vulebaolong/vulebaolong/main/asset/item4_4.gif" alt="coding" />
@@ -23,9 +17,19 @@
 - 🌱 I’m currently learning **BackEnd Developer**  
 - 💬 Ask me about **MyERN**  
 - 🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">phamtrongnhan</a>**  
-- 📫 How to reach me **phamtrongnhan576@gmail.com**  
+- 📫 How to reach me:  
+  **phamtrongnhan576@gmail.com**  
+  <p>
+    <a href="https://zalo.me/0362772537" target="_blank">
+      <img src="https://img.icons8.com/color/28/000000/zalo.png"/>
+    </a>
+    <a href="https://www.facebook.com/pham.trong.nhan.447322" target="_blank">
+      <img src="https://img.icons8.com/color/28/000000/facebook-new.png"/>
+    </a>
+  </p>  
 - 📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**  
 - ⚡ Fun fact **I think I am funny**
+
   
 <br/>
 
