@@ -6,9 +6,8 @@
 
 - 🌱 I’m currently learning **BackEnd Developer**  
 - 💬 Ask me about **MERN**  
-- 🌐 Personal website: [vulebaolong](https://github.com/vulebaolong)  
-- 📧 How to reach me: **vulebaolong@gmail.com**  
-- 📄 My CV: [EN](#) / [VI](#)  
+- 🌐 Personal website: update
+- 📧 How to reach me: **phamtrongnhan576@gmail.com**   
 - ⚡ Fun fact: **I think I am funny**
 
     </td>
